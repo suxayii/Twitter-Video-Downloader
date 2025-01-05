@@ -2,7 +2,7 @@
 
 ## Language / 中文 / Язык /日本語
 
-[English](README.md) | [中文](language/README.zh.md) | [Русский](language/README.ru.md) |[日本語](language/README.ja.md)
+[English](README.md) | [中文](language/README.zh.md) | [Русский](language/README.ru.md) |[日本語](language/README.ja.md)|[한국어](language/README.ko.md)
 
 ---
 ## Supported Versions
